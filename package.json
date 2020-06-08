@@ -1,6 +1,6 @@
 {
   "name": "@zapier/react-lazyload",
-  "version": "2.6.8-rc.1",
+  "version": "2.6.8-rc.2",
   "description": "Lazyload your components, images or anything where performance matters.",
   "main": "lib/index.js",
   "scripts": {
